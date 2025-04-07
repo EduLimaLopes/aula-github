@@ -1,1 +1,2 @@
 Este é um outro arquivo.
+testando2.
